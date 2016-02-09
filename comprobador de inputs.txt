@@ -4,5 +4,4 @@ Función(n)
 	Else
 		Error
 	End if.
-Useless crap
 End function
