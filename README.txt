@@ -4,7 +4,7 @@ Historias de usuario (con tareas):
 	-Interfaz:
 		-Diseño
 		-integración de funciones
-	-Comprobador de inputs:
+	-Comprobador de inputs (los números deben ser naturales):
 		-diseño de pruebas (bloqueante)
 		-codificación
 		-comprobación/refactorización
