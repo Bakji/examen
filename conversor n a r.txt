@@ -1,0 +1,4 @@
+Function(numero natural)
+	Divisiones y concatenaciones
+	Output: núemro romano
+End function

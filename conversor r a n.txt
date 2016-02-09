@@ -1,0 +1,4 @@
+Function(numero romano)
+	Sumas y restas
+	Output: numero natural
+End function
