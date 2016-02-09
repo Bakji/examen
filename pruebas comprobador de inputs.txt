@@ -1,0 +1,10 @@
+Prueba 1:
+-introducir cadena, debe dar error.
+Prueba 2:
+-Introducir un número decimal, debe dar error.
+Prueba 3:
+-Introducir un número negativo, debe dar error.
+Prueba 4:
+-Introducir 0, debe aceptarlo.
+Prueba 5:
+-Introducir un entero positivo, debe aceptarlo.
