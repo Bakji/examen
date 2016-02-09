@@ -1,0 +1,6 @@
+Prueba 1: suma funciona
+-suma(2,5)=7
+Prueba 2: con llevadas
+-suma(4,9)=13
+Prueba 3: el 0 no altera
+-suma(a,0)=a
