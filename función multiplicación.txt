@@ -1,0 +1,4 @@
+Function (a,b)
+	a*b
+	useless crap
+End function
