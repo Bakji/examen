@@ -1,0 +1,6 @@
+Prueba:
+-n=0
+for i 1 to b,
+n=suma(n,a)
+end for
+n=multiplicar(a,b)
