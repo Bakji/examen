@@ -2,8 +2,7 @@ funcion(a,b)
 	n=a-b
 	If comprobador de input(n)= true
 		output=n
-	Esle
+	Elsee
 		error
-		useless crap
 	End if.
 End function
