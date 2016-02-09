@@ -1,0 +1,9 @@
+funcion(a,b)
+	n=a-b
+	If comprobador de input(n)= true
+		output=n
+	Esle
+		error
+		useless crap
+	End if.
+End function
