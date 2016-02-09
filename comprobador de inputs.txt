@@ -1,0 +1,8 @@
+Función(n)
+	If tipe.natural(n)=true
+		output:n
+	Else
+		Error
+	End if.
+Useless crap
+End function
