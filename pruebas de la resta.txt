@@ -1,0 +1,6 @@
+Prueba 1: resta
+-suma(a,resta(a,b))=b
+Prueba 2: el 0 no altera:
+-resta(a,0)=a
+Prueba 3: el resultado es un número natural
+-comprobador input(resta(a,b))

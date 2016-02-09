@@ -1,0 +1,8 @@
+funcion(a,b)
+	n=a-b
+	If comprobador de input(n)= true
+		output=n
+	Elsee
+		error
+	End if.
+End function
