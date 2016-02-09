@@ -5,3 +5,4 @@ Casilla opcional: "Números romanos"
 	-Si se marca esta casilla, cada input pasa por el 'conversor r a n' antes de pasar por el comprobador de inputs, y los outputs pasan por el 'conversor n a r' antes de mostrarse en pantalla.
 Botón "suma": llama a la función suma con los inputs del formulario. Muestra el resultado en pantalla.
 Botón "resta": llama a la función resta con los inputs del formulario. Muestra el resultado en pantalla.
+Botón "multiplicación": llama a la función multiplicación con los inputs del formulario. Muestra el resultado en pantalla.
