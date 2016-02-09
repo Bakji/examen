@@ -1,0 +1,4 @@
+Función(a,b)
+a+b
+useless crap
+Fin función
