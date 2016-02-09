@@ -1,3 +1,4 @@
 Html
 Formulario con dos campos para input.
 Cada campo del formulario llama a la función "comprobador de inputs"
+Botón "suma": llama a la función suma con los inputs del formulario. Muestra el resultado en pantalla.
