@@ -1,2 +1,3 @@
 Html
 Formulario con dos campos para input.
+Cada campo del formulario llama a la función "comprobador de inputs"
